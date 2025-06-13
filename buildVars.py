@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""Used for modes that require changing the NVDA principle when playing a game. """),
 	# version
-	"addon_version": "2025.6.3",
+	"addon_version": "2025.6.14",
 	# Author(s)
 	"addon_author": "Maxe-Hsieh <maxe@mail.batol.net>",
 	# URL for the add-on documentation support
@@ -35,7 +35,7 @@ addon_info = {
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
 	"addon_minimumNVDAVersion": "2024.1",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": "2024.4.2",
+	"addon_lastTestedNVDAVersion": "2025.1",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
